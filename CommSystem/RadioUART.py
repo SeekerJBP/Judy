@@ -1,4 +1,5 @@
-# Radio com to Neural Board
+# Radio or UART com to Neural Board
+
 
 
 
